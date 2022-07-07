@@ -1,0 +1,14 @@
+[
+  {
+    "Product": "Apples",
+    "DiscountType": "TimeGate",
+    "DiscountTimeGateStart": "7/7/2022",
+    "DiscountTimeGateEnd": "14/7/2022"
+  },
+  {
+    "Product": "Bread",
+    "DiscountType": "BuyMoreItems",
+    "DiscountBuyMoreItemsType": "Soup",
+    "DiscountBuyMoreItemsQty": 2
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Product": "Apples",
+    "Description": "10% off",
+    "DiscountType": "TimeGate",
+    "DiscountPercentage": 0.1,
+    "DiscountTimeGateStart": "2021-07-07T00:00:00.000000+00:00",
+    "DiscountTimeGateEnd": "2021-07-14T00:00:00.000000+00:00"
+  },
+  {
+    "Product": "Bread",
+    "Description": "50% off",
+    "DiscountType": "BuyMoreItems",
+    "DiscountBuyMoreItemsType": "Soup",
+    "DiscountBuyMoreItemsQty": 2,
+    "DiscountPercentage": 0.5
+  }
+]
